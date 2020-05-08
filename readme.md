@@ -1,0 +1,1 @@
+Build as images for use with docker compose for development
